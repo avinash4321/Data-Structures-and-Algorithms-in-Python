@@ -1,8 +1,5 @@
 def is_multiple(n,m):
 	try:
-#	if (m == 0):
-#		print ("Second number can't be zero")
-#	else:
 		if (n % m == 0):
 			print ('First number is a multiple of Second number')
 		else:
