@@ -13,3 +13,5 @@ n = int(input('Enter first number: '))
 m = int(input('Enter second number: '))
 
 is_multiple (n,m)
+
+#its a new comment
